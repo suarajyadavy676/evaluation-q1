@@ -1,0 +1,18 @@
+#container{
+    display: grid;
+}
+h1{
+    text-align: center; color: blue;
+}
+input{
+    margin: 10px;
+}
+select{
+    margin: 10px;
+}
+button{
+    background-color: red;
+}
+tr{
+    text-align: center;
+}
